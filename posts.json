@@ -1,5 +1,14 @@
 [
   {
+    "id": "journal-1991-08-08",
+    "file": "8.md",
+    "slug": "pseudo-0x7f",
+    "date": "08-08-1991",
+    "title": "Journal du 08/08/1991 : Pseudo 0x7F",
+    "description": "Un nouveau nom apparaît : Null 0x7F.",
+    "tags": []
+  },
+  {
     "id": "journal-1991-07-14",
     "file": "7.md",
     "slug": "disparition",
