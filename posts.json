@@ -1,5 +1,14 @@
 [
   {
+    "id": "intrusion-log-1991-05-22",
+    "file": "12.md",
+    "slug": "intrusion-log",
+    "date": "22-05-1991",
+    "title": "LOG : CORRUPTION MEM.22A",
+    "description": "Bloc mémoire altéré — Entrée fragmentée",
+    "tags": []
+  },
+  {
     "id": "journal-1991-05-10",
     "file": "4.md",
     "slug": "hexa-memoire",
