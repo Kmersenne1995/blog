@@ -1,5 +1,14 @@
 [
   {
+    "id": "journal-1991-07-14",
+    "file": "7.md",
+    "slug": "disparition",
+    "date": "14-07-1991",
+    "title": "Journal du 14/07/1991 : Disparition",
+    "description": "Quelqu'un a effacé mes sauvegardes.",
+    "tags": []
+  },
+  {
     "id": "journal-1991-06-30",
     "file": "6.md",
     "slug": "sequence-inconnue",
