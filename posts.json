@@ -1,5 +1,14 @@
 [
   {
+    "id": "journal-1991-04-01",
+    "file": "2.md",
+    "slug": "code-dans-le-chaos",
+    "date": "01-04-1991",
+    "title": "Journal du 01/04/1991 : Code dans le chaos",
+    "description": "Un fragment de code trouvé dans les logs système.",
+    "tags": []
+  },
+  {
     "id": "journal-1991-03-12",
     "file": "1.md",
     "slug": "premier-signal",
