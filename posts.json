@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "journal-1991-03-12",
+    "file": "1.md",
+    "slug": "premier-signal",
+    "date": "12-03-1991",
+    "title": "Journal du 12/03/1991 : Premier signal",
+    "description": "Premier signal reçu. Un bourdonnement dans le vide.",
+    "tags": []
+  }
+]
