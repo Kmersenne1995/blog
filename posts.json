@@ -1,5 +1,14 @@
 [
   {
+    "id": "journal-1991-10-01",
+    "file": "14.md",
+    "slug": "frequence-fantome",
+    "date": "01-10-1991",
+    "title": "Journal du 01/10/1991 : Fréquence fantôme",
+    "description": "Retour du signal. Cette fois, il parlait.",
+    "tags": []
+  },
+  {
     "id": "journal-1991-09-15",
     "file": "10.md",
     "slug": "alerte-debordement",
